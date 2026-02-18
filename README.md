@@ -6,6 +6,20 @@ A comprehensive collection of exams for German language learners at the A1 (begi
 
 This repository contains **12 chapter-based exams** plus **1 comprehensive final exam**, complete with detailed answer keys. Each exam is designed to test your understanding of the corresponding lessons from the Starten Wir A1 course material.
 
+## ⚠️ Disclaimer
+
+**Important Notice Regarding Copyright:**
+
+These exams are created as **supplementary educational materials** for personal study and practice purposes. They are designed to complement the **Starten Wir A1** textbook published by Klett-Verlag.
+
+- **Copyright Notice**: The "Starten Wir A1" textbook and its contents are copyrighted by their respective publishers and authors
+- **Original Content**: The exams in this repository are independently created practice materials, not official materials from the publisher
+- **Educational Purpose**: These materials are provided for educational and non-commercial use only
+- **No Replacement**: This repository is not intended to replace or substitute the original textbook
+- **Recommendation**: Users should purchase the official Starten Wir A1 textbook for complete learning materials
+
+If you are the copyright holder and have concerns about this content, please contact the repository maintainer to resolve any issues.
+
 ## 📖 Contents
 
 ### Chapter Exams (Prüfungen)
