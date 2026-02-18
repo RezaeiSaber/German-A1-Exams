@@ -93,7 +93,7 @@ These exams are ideal for:
 ## 📌 Tips for Success
 
 1. Complete one lesson before attempting its corresponding exam
-2. Set aside 30-60 minutes for each chapter exam
+2. Set aside 20-40 minutes for each chapter exam
 3. Use the answer keys for self-correction and learning
 4. Review mistakes and revisit challenging topics
 5. Take the final exam only after completing all chapter exams
